@@ -161,7 +161,7 @@ EcommerceProject/
 
 ## Configuration
 
-- **Google Sheets**: Spreadsheet ID in `subway.py` (`1gk0zIcgSlerR_2a4KlMckKmiJC-sE5QhaiFACil_Ges`).
+- **Google Sheets**: Spreadsheet ID in `subway.py` .
 - **Cloudflare R2**: Bucket (`storage-wptoolmart`) and endpoint in `cloudflareapi.py`.
 - **File Paths**: Adjust in `update_house.py`, `wordpress_data_update_api.py`, and `wordpress_new_product_adder_api.py`.
 - **Email**: Sender/recipient in `mail_delivery_system.py`.
